@@ -1,0 +1,9 @@
+SALES ANALYSIS INSIGHTS
+
+Total revenue: ₹415,500.00
+Total units sold: 56
+Highest-revenue product: Laptop
+Highest-revenue month: 2026-03
+Highest-revenue region: North
+
+Note: This is a small sample dataset created for learning. Results are not real company data.
